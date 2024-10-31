@@ -22,7 +22,6 @@ MazeSolver is a Python project that implements various search algorithms—DFS, 
   - **`SearchAlgorithmWithCosts`**: Base class for algorithms that account for cell-specific costs.
   - **`DFSWithCosts`, `BFSWithCosts`, `AStarWithCosts`**: Variants of the search algorithms that consider cell costs when calculating the optimal path.
 
----
 ## Algorithms Overview
 
 ### Depth-First Search (DFS)
