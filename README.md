@@ -10,7 +10,7 @@ MazeSolver is a Python project that implements various search algorithms—DFS, 
 - **Implemented Algorithms**: 
   - **Depth-First Search (DFS)** - Does not guarantee the shortest path
   - **Breadth-First Search (BFS)** - Guarantees the shortest path
-  - **A* Search** - Uses heuristics to ensure the shortest and least costly path
+  - **A\* Search** - Uses heuristics to ensure the shortest and least costly path
 - **Comparative Analysis**: Evaluates algorithms on expanded nodes, path length, and cost
 
 ## Project Structure
